@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Alex](https://up.htmlacademy.ru/htmlcss/26/user/139329).
-* Наставник: [Денис Быков](https://htmlacademy.ru/profile/id66426).
+* Студент: Pavel Zverev
+* Наставник: Big Boss Rick Ross Oleg Muriev
 
 ---
 
